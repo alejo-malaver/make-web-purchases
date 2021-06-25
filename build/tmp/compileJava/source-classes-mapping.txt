@@ -1,0 +1,46 @@
+org/rosen/automation/project/screenplay/interactions/ClickInBlousesSubmenuOption.java
+ org.rosen.automation.project.screenplay.interactions.ClickInBlousesSubmenuOption
+org/rosen/automation/project/screenplay/tasks/LoadingPopupInteractions.java
+ org.rosen.automation.project.screenplay.tasks.LoadingPopupInteractions
+org/rosen/automation/project/screenplay/interactions/ClickInContinueShoppingButton.java
+ org.rosen.automation.project.screenplay.interactions.ClickInContinueShoppingButton
+org/rosen/automation/project/screenplay/interactions/ClickOnDeployPopupWithProductDetail.java
+ org.rosen.automation.project.screenplay.interactions.ClickOnDeployPopupWithProductDetail
+org/rosen/automation/project/screenplay/interactions/ClickInAddToCartButton.java
+ org.rosen.automation.project.screenplay.interactions.ClickInAddToCartButton
+org/rosen/automation/project/screenplay/interactions/ClickInSummerDressesSubmenuOption.java
+ org.rosen.automation.project.screenplay.interactions.ClickInSummerDressesSubmenuOption
+org/rosen/automation/project/screenplay/tasks/AddItemsToShoppingCart.java
+ org.rosen.automation.project.screenplay.tasks.AddItemsToShoppingCart
+org/rosen/automation/project/util/ManageConfig.java
+ org.rosen.automation.project.util.ManageConfig
+org/rosen/automation/project/util/Constants.java
+ org.rosen.automation.project.util.Constants
+org/rosen/automation/project/screenplay/interactions/ClickInEveningDressesSubmenuOption.java
+ org.rosen.automation.project.screenplay.interactions.ClickInEveningDressesSubmenuOption
+org/rosen/automation/project/screenplay/tasks/OpenApp.java
+ org.rosen.automation.project.screenplay.tasks.OpenApp
+org/rosen/automation/project/screenplay/interactions/ClickInAddButtonForList.java
+ org.rosen.automation.project.screenplay.interactions.ClickInAddButtonForList
+org/rosen/automation/project/screenplay/interactions/ClickInDeleteProductButton.java
+ org.rosen.automation.project.screenplay.interactions.ClickInDeleteProductButton
+org/rosen/automation/project/screenplay/interactions/MoveMouseToWomenMenuOption.java
+ org.rosen.automation.project.screenplay.interactions.MoveMouseToWomenMenuOption
+org/rosen/automation/project/screenplay/interactions/ClickInItemOption.java
+ org.rosen.automation.project.screenplay.interactions.ClickInItemOption
+org/rosen/automation/project/screenplay/pages/Main.java
+ org.rosen.automation.project.screenplay.pages.Main
+org/rosen/automation/project/screenplay/questions/ValidateTotalItems.java
+ org.rosen.automation.project.screenplay.questions.ValidateTotalItems
+org/rosen/automation/project/commons/CommonsInLists.java
+ org.rosen.automation.project.commons.CommonsInLists
+org/rosen/automation/project/screenplay/interactions/MoveMouseToDressesMenuOption.java
+ org.rosen.automation.project.screenplay.interactions.MoveMouseToDressesMenuOption
+org/rosen/automation/project/screenplay/interactions/ClickInCasualDressesSubmenuOption.java
+ org.rosen.automation.project.screenplay.interactions.ClickInCasualDressesSubmenuOption
+org/rosen/automation/project/screenplay/interactions/ClickInTShirtsSubmenuOption.java
+ org.rosen.automation.project.screenplay.interactions.ClickInTShirtsSubmenuOption
+org/rosen/automation/project/screenplay/tasks/RemoveItemsToShoppingCart.java
+ org.rosen.automation.project.screenplay.tasks.RemoveItemsToShoppingCart
+org/rosen/automation/project/screenplay/questions/ValidateTotalItemsIsEmpty.java
+ org.rosen.automation.project.screenplay.questions.ValidateTotalItemsIsEmpty
