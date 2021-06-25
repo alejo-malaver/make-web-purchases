@@ -83,6 +83,7 @@ You use the `environment` system property to determine which environment to run 
 $ ./gradlew test aggregate -Denvironment=stg
 ```
 In the following link you can view the project running locally, the execution time is notably affected by the screen recording made by the Mac, so I suggest executing the project locally to validate the real execution times:
+[Execution Video](https://youtu.be/ftrJ_gSGVaM)
 
 Into serenity.conf file exists the follows params:
 
